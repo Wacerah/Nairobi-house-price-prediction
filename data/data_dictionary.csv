@@ -1,0 +1,8 @@
+Column Name,Data Type,Description
+price,Integer,Listing price in Kenyan Shillings (KSh)
+title,String,Property title or type (e.g., 4 Bedroom Apartment)
+location,String,Location of the property (e.g., Westlands)
+bedrooms,Integer,Number of bedrooms
+bathrooms,Integer,Number of bathrooms
+parking,Integer,Number of parking spaces
+scrape_date,Date,Date when the listing was scraped
